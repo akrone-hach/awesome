@@ -6,12 +6,12 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Security](#security)
 - [dotnetcore](#dotnetcore)
 - [General-Computer](#general-computer)
-
-
+- [Software-Development](#software-development)
 
 # Security
 
 - [Cracking Uncracked Passwords on Hashes.org](https://www.netmux.com/blog/survivor-password-hashes) : Great article about password cracking.
+- [Awesome Hacking List](https://github.com/Hack-with-Github/Awesome-Hacking): Another 'Awesome' list with hacking resources
 
 
 # dotnetcore
@@ -24,3 +24,8 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Build an OS from Scratch Tutorial](https://github.com/cfenollosa/os-tutorial): Got curious about OS Guts and concepts
 - [Linux from Scratch](http://www.linuxfromscratch.org/): Build Linux from scratch
 - [Apparatus Assembly](https://github.com/kgolid/apparatus-assembly): Animation of the Apparatus Generator. Watch the [DEMO](https://assembly.generated.space/) for hours
+
+
+# Software-Development
+- [Google Language Style Guide](http://google.github.io/styleguide/): Good place to answer those code style questions you've had
+- [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions): Style guide for C#
