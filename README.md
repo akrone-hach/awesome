@@ -13,6 +13,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 
 - [Cracking Uncracked Passwords on Hashes.org](https://www.netmux.com/blog/survivor-password-hashes) : Great article about password cracking.
 - [Awesome Hacking List](https://github.com/Hack-with-Github/Awesome-Hacking): Another 'Awesome' list with hacking resources
+- [SecLists](https://github.com/danielmiessler/SecLists) - Lots of lists for use on an engagement
 
 ## dotnetcore
 
