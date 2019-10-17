@@ -14,6 +14,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Cracking Uncracked Passwords on Hashes.org](https://www.netmux.com/blog/survivor-password-hashes) : Great article about password cracking.
 - [Awesome Hacking List](https://github.com/Hack-with-Github/Awesome-Hacking): Another 'Awesome' list with hacking resources
 - [SecLists](https://github.com/danielmiessler/SecLists) - Lots of lists for use on an engagement
+- [Awesome SEC+ Study Guide](https://www.reddit.com/r/CompTIA/comments/5jzpei/i_passed_security_and_built_you_all_a_study_guide/) - Thanks be to the awesome person who put this together! [Editable Version](https://docs.google.com/document/d/1hXGyKDWdpJLKZWWuu5eVTh-N5simhpSlTTA-Z-dtCj0/edit?usp=sharing) | [Non Editable Version](https://docs.google.com/document/d/14xhhMVwY-agTm9n_Hov3KQRWtw0a88gOkTrfYdrgtC8/edit?usp=sharing)
 
 ## dotnetcore
 
