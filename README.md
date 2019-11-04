@@ -5,9 +5,10 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 ## Contents
 
 - [Security](#security)
-- [dotnetcore](#dotnetcore)
-- [General-Computer](#general-computer)
-- [Software-Development](#software-development)
+- [Dotnet Core](#dotnet-core)
+- [General Computer](#general-computer)
+- [Software Development](#software-development)
+- [Brain Candy](#brain-candy)
 
 ## Security
 
@@ -18,17 +19,32 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Cloudflare's LavaRand RNG](https://blog.cloudflare.com/lavarand-in-production-the-nitty-gritty-technical-details/) - Technical dive into Cloudflare's LavaRand RNG
 
 
-## dotnetcore
+[back to top](#contents)
+
+## Dotnet Core
 
 - [Logging in a Console App](https://www.blinkingcaret.com/2018/02/14/net-core-console-logging/): Walkthrough setting up logging in a .NET Core console app
 
-## General-Computer
+
+[back to top](#contents)
+
+## General Computer
 
 - [Build an OS from Scratch Tutorial](https://github.com/cfenollosa/os-tutorial): Got curious about OS Guts and concepts
 - [Linux from Scratch](http://www.linuxfromscratch.org/): Build Linux from scratch
 - [Apparatus Assembly](https://github.com/kgolid/apparatus-assembly): Animation of the Apparatus Generator. Watch the [DEMO](https://assembly.generated.space/) for hours
 
-## Software-Development
+
+[back to top](#contents)
+
+## Software Development 
 
 - [Google Language Style Guide](http://google.github.io/styleguide/): Good place to answer those code style questions you've had
 - [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions): Style guide for C#
+
+[back to top](#contents)
+
+## Brain Candy
+
+
+[back to top](#contents)
