@@ -34,7 +34,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 
 - [Build an OS from Scratch Tutorial](https://github.com/cfenollosa/os-tutorial): Got curious about OS Guts and concepts
 - [Linux from Scratch](http://www.linuxfromscratch.org/): Build Linux from scratch
-- [Apparatus Assembly](https://github.com/kgolid/apparatus-assembly): Animation of the Apparatus Generator. Watch the [DEMO](https://assembly.generated.space/) for hours
+
 
 
 [back to top](#contents)
@@ -48,6 +48,6 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 [back to top](#contents)
 
 ## Brain Candy
-
+- [Apparatus Assembly](https://github.com/kgolid/apparatus-assembly): Animation of the Apparatus Generator. Watch the [DEMO](https://assembly.generated.space/) for hours
 
 [back to top](#contents)
