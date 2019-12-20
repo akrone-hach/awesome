@@ -43,6 +43,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 
 - [Google Language Style Guide](http://google.github.io/styleguide/): Good place to answer those code style questions you've had
 - [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions): Style guide for C#
+- [XOR filter](https://lemire.me/blog/2019/12/19/xor-filters-faster-and-smaller-than-bloom-filters/): High level overview of the XOR filter
 
 [back to top](#contents)
 
