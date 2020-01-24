@@ -19,6 +19,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Cloudflare's LavaRand RNG](https://blog.cloudflare.com/lavarand-in-production-the-nitty-gritty-technical-details/) - Technical dive into Cloudflare's LavaRand RNG
 - [Software Analysis through Reverse Engineering](https://www.geoffchappell.com/about/analysis.htm) - General info about revserve engineering software
 - [Kali Linux on Windows 10](https://whitedome.com.au/re4son/voodoo-kali/) - When you got windows you can still play
+- [Raspi Post mortem analysis](http://jakob.space/blog/investigating-a-shellbot-aa-infection.html) - This is a great write up of a Raspberry pi that was compromised on home network
 
 
 [back to top](#contents)
