@@ -4,11 +4,13 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 
 ## Contents
 
-- [Security](#security)
-- [Dotnet Core](#dotnet-core)
-- [General Computer](#general-computer)
-- [Software Development](#software-development)
-- [Brain Candy](#brain-candy)
+- [awesome](#awesome)
+  - [Contents](#contents)
+  - [Security](#security)
+  - [Dotnet Core](#dotnet-core)
+  - [General Computer](#general-computer)
+  - [Software Development](#software-development)
+  - [Brain Candy](#brain-candy)
 
 ## Security
 
@@ -20,14 +22,13 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Software Analysis through Reverse Engineering](https://www.geoffchappell.com/about/analysis.htm) - General info about revserve engineering software
 - [Kali Linux on Windows 10](https://whitedome.com.au/re4son/voodoo-kali/) - When you got windows you can still play
 - [Raspi Post mortem analysis](http://jakob.space/blog/investigating-a-shellbot-aa-infection.html) - This is a great write up of a Raspberry pi that was compromised on home network
-
+- [Huge list of papers on Fuzzing](https://github.com/wcventure/FuzzingPaper) - A large collection of papers on fuzzing
 
 [back to top](#contents)
 
 ## Dotnet Core
 
 - [Logging in a Console App](https://www.blinkingcaret.com/2018/02/14/net-core-console-logging/): Walkthrough setting up logging in a .NET Core console app
-
 
 [back to top](#contents)
 
@@ -37,10 +38,9 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Linux from Scratch](http://www.linuxfromscratch.org/): Build Linux from scratch
 
 
-
 [back to top](#contents)
 
-## Software Development 
+## Software Development
 
 - [Google Language Style Guide](http://google.github.io/styleguide/): Good place to answer those code style questions you've had
 - [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions): Style guide for C#
@@ -49,6 +49,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 [back to top](#contents)
 
 ## Brain Candy
+
 - [Apparatus Assembly](https://github.com/kgolid/apparatus-assembly): Animation of the Apparatus Generator. Watch the [DEMO](https://assembly.generated.space/) for hours
 
 [back to top](#contents)
