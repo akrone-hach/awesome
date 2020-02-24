@@ -10,6 +10,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
   - [Dotnet Core](#dotnet-core)
   - [General Computer](#general-computer)
   - [Software Development](#software-development)
+  - [Hardware and Electronics](#hardware-and-electronics)
   - [Brain Candy](#brain-candy)
 
 ## Security
@@ -45,6 +46,12 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Google Language Style Guide](http://google.github.io/styleguide/): Good place to answer those code style questions you've had
 - [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions): Style guide for C#
 - [XOR filter](https://lemire.me/blog/2019/12/19/xor-filters-faster-and-smaller-than-bloom-filters/): High level overview of the XOR filter
+
+[back to top](#contents)
+
+## Hardware and Electronics
+
+- [Bores Intro to DSP](http://www.bores.com/courses/intro/basics/index.htm): Introductory material for DSPs and Signal Processing
 
 [back to top](#contents)
 
