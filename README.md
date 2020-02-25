@@ -24,6 +24,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Kali Linux on Windows 10](https://whitedome.com.au/re4son/voodoo-kali/) - When you got windows you can still play
 - [Raspi Post mortem analysis](http://jakob.space/blog/investigating-a-shellbot-aa-infection.html) - This is a great write up of a Raspberry pi that was compromised on home network
 - [Huge list of papers on Fuzzing](https://github.com/wcventure/FuzzingPaper) - A large collection of papers on fuzzing
+- [Infosect Blog](https://blog.infosectcbr.com.au/) - Infosect is a hackerspace in Canberra Austrailia. The blog has a lot of detailed posts describing various attacks and exploits around Linux. The blog may be hard to navigate YMMV.
 
 [back to top](#contents)
 
