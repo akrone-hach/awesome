@@ -7,6 +7,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [awesome](#awesome)
   - [Contents](#contents)
   - [Security](#security)
+  - [Personal Development](#personal-development)
   - [Dotnet Core](#dotnet-core)
   - [General Computer](#general-computer)
   - [Software Development](#software-development)
@@ -30,6 +31,11 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [What Consititutes a Vulnerablity](https://boats.gitlab.io/blog/post/vulnerabilities/) - Opinion on what and what isn't a vulnerability and CVE
 - [Safari Webcam Hacking](https://www.ryanpickren.com/webcam-hacking) - Interesting writeup and Proof-of-Concept on how to gain unauthorizaed access to the webcam in iOS and macOS
 
+[back to top](#contents)
+
+## Personal Development
+
+- [Questions to help overcome Shyness](https://www.inc.com/alison-davis/33-questions-to-help-you-overcome-shyness-so-you-can-be-awesome-at-networking-speed-dating-mingling-or-schmoozing.html) - Questions every introvert should keep in their backpocket for being social at conferences and networking
 
 [back to top](#contents)
 
