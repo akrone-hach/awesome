@@ -26,6 +26,10 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Huge list of papers on Fuzzing](https://github.com/wcventure/FuzzingPaper) - A large collection of papers on fuzzing
 - [Infosect Blog](https://blog.infosectcbr.com.au/) - Infosect is a hackerspace in Canberra Austrailia. The blog has a lot of detailed posts describing various attacks and exploits around Linux. The blog may be hard to navigate. YMMV
 - [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist) - Improve your personal security and privacy with these tips
+- [Secret Club](https://secret.club/) - Blog about reverse engineering specifically around the anti cheat system BattlEye
+- [What Consititutes a Vulnerablity](https://boats.gitlab.io/blog/post/vulnerabilities/) - Opinion on what and what isn't a vulnerability and CVE
+- [Safari Webcam Hacking](https://www.ryanpickren.com/webcam-hacking) - Interesting writeup and Proof-of-Concept on how to gain unauthorizaed access to the webcam in iOS and macOS
+
 
 [back to top](#contents)
 
