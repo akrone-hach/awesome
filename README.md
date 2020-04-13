@@ -49,6 +49,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 
 - [Build an OS from Scratch Tutorial](https://github.com/cfenollosa/os-tutorial): Got curious about OS Guts and concepts
 - [Linux from Scratch](http://www.linuxfromscratch.org/): Build Linux from scratch
+- [Web Based Pomodoro Tracker](https://github.com/huytd/pomoday-v2): Nifty Web based Pomorodo tracker
 
 
 [back to top](#contents)
