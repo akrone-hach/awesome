@@ -18,24 +18,25 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 
 - [Cracking Uncracked Passwords on Hashes.org](https://www.netmux.com/blog/survivor-password-hashes) : Great article about password cracking.
 - [Awesome Hacking List](https://github.com/Hack-with-Github/Awesome-Hacking): Another 'Awesome' list with hacking resources
-- [SecLists](https://github.com/danielmiessler/SecLists) - Lots of lists for use on an engagement
-- [Awesome SEC+ Study Guide](https://www.reddit.com/r/CompTIA/comments/5jzpei/i_passed_security_and_built_you_all_a_study_guide/) - Thanks be to the awesome person who put this together! [Editable Version](https://docs.google.com/document/d/1hXGyKDWdpJLKZWWuu5eVTh-N5simhpSlTTA-Z-dtCj0/edit?usp=sharing) | [Non Editable Version](https://docs.google.com/document/d/14xhhMVwY-agTm9n_Hov3KQRWtw0a88gOkTrfYdrgtC8/edit?usp=sharing)
-- [Cloudflare's LavaRand RNG](https://blog.cloudflare.com/lavarand-in-production-the-nitty-gritty-technical-details/) - Technical dive into Cloudflare's LavaRand RNG
-- [Software Analysis through Reverse Engineering](https://www.geoffchappell.com/about/analysis.htm) - General info about revserve engineering software
-- [Kali Linux on Windows 10](https://whitedome.com.au/re4son/voodoo-kali/) - When you got windows you can still play
-- [Raspi Post mortem analysis](http://jakob.space/blog/investigating-a-shellbot-aa-infection.html) - This is a great write up of a Raspberry pi that was compromised on a home network
-- [Huge list of papers on Fuzzing](https://github.com/wcventure/FuzzingPaper) - A large collection of papers on fuzzing
-- [Infosect Blog](https://blog.infosectcbr.com.au/) - Infosect is a hackerspace in Canberra Austrailia. The blog has a lot of detailed posts describing various attacks and exploits around Linux. The blog may be hard to navigate. YMMV
-- [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist) - Improve your personal security and privacy with these tips
-- [Secret Club](https://secret.club/) - Blog about reverse engineering specifically around the anti cheat system BattlEye
-- [What Consititutes a Vulnerablity](https://boats.gitlab.io/blog/post/vulnerabilities/) - Opinion on what and what isn't a vulnerability and CVE
-- [Safari Webcam Hacking](https://www.ryanpickren.com/webcam-hacking) - Interesting writeup and Proof-of-Concept on how to gain unauthorizaed access to the webcam in iOS and macOS
+- [SecLists](https://github.com/danielmiessler/SecLists): Lots of lists for use on an engagement
+- [Awesome SEC+ Study Guide](https://www.reddit.com/r/CompTIA/comments/5jzpei/i_passed_security_and_built_you_all_a_study_guide/): Thanks be to the awesome person who put this together! [Editable Version](https://docs.google.com/document/d/1hXGyKDWdpJLKZWWuu5eVTh-N5simhpSlTTA-Z-dtCj0/edit?usp=sharing) | [Non Editable Version](https://docs.google.com/document/d/14xhhMVwY-agTm9n_Hov3KQRWtw0a88gOkTrfYdrgtC8/edit?usp=sharing)
+- [Cloudflare's LavaRand RNG](https://blog.cloudflare.com/lavarand-in-production-the-nitty-gritty-technical-details/): Technical dive into Cloudflare's LavaRand RNG
+- [Software Analysis through Reverse Engineering](https://www.geoffchappell.com/about/analysis.htm): General info about revserve engineering software
+- [Kali Linux on Windows 10](https://whitedome.com.au/re4son/voodoo-kali/): When you got windows you can still play
+- [Raspi Post mortem analysis](http://jakob.space/blog/investigating-a-shellbot-aa-infection.html): This is a great write up of a Raspberry pi that was compromised on a home network
+- [Huge list of papers on Fuzzing](https://github.com/wcventure/FuzzingPaper): A large collection of papers on fuzzing
+- [Infosect Blog](https://blog.infosectcbr.com.au/): Infosect is a hackerspace in Canberra Austrailia. The blog has a lot of detailed posts describing various attacks and exploits around Linux. The blog may be hard to navigate. YMMV
+- [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist): Improve your personal security and privacy with these tips
+- [Secret Club](https://secret.club/): Blog about reverse engineering specifically around the anti cheat system BattlEye
+- [What Consititutes a Vulnerablity](https://boats.gitlab.io/blog/post/vulnerabilities/): Opinion on what and what isn't a vulnerability and CVE
+- [Safari Webcam Hacking](https://www.ryanpickren.com/webcam-hacking): Interesting writeup and Proof-of-Concept on how to gain unauthorizaed access to the webcam in iOS and macOS
+- [Active Directory Avenues to Compromise](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/avenues-to-compromise): MSDOCs for AD Avenues of Compromise
 
 [back to top](#contents)
 
 ## Personal Development
 
-- [Questions to help overcome Shyness](https://www.inc.com/alison-davis/33-questions-to-help-you-overcome-shyness-so-you-can-be-awesome-at-networking-speed-dating-mingling-or-schmoozing.html) - Questions every introvert should keep in their backpocket for being social at conferences and networking
+- [Questions to help overcome Shyness](https://www.inc.com/alison-davis/33-questions-to-help-you-overcome-shyness-so-you-can-be-awesome-at-networking-speed-dating-mingling-or-schmoozing.html): Questions every introvert should keep in their backpocket for being social at conferences and networking
 
 [back to top](#contents)
 
