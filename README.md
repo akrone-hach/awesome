@@ -51,6 +51,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Build an OS from Scratch Tutorial](https://github.com/cfenollosa/os-tutorial): Got curious about OS Guts and concepts
 - [Linux from Scratch](http://www.linuxfromscratch.org/): Build Linux from scratch
 - [Web Based Pomodoro Tracker](https://github.com/huytd/pomoday-v2): Nifty Web based Pomorodo tracker
+- [Learning x86-64 assembly: Part 0](https://gpfault.net/posts/asm-tut-0.txt.html): Dive into x86-64 assembly and level up your low level language skills
 
 
 [back to top](#contents)
