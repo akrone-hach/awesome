@@ -1,6 +1,6 @@
 # awesome
 
-List of Awesome Things. I've found them and want to keep track of them. I get to practice some [Ontology](https://en.wikipedia.org/wiki/Ontology_(information_science)) in the mean time
+List of Awesome Things. I've found them and want to keep track of them. I get to practice some [Ontology](https://en.wikipedia.org/wiki/Ontology_(information_science)) in the mean time. I reference a good amount of links I find on [Lobste.rs](https://lobste.rs)
 
 ## Contents
 
@@ -31,6 +31,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [What Consititutes a Vulnerablity](https://boats.gitlab.io/blog/post/vulnerabilities/): Opinion on what and what isn't a vulnerability and CVE
 - [Safari Webcam Hacking](https://www.ryanpickren.com/webcam-hacking): Interesting writeup and Proof-of-Concept on how to gain unauthorizaed access to the webcam in iOS and macOS
 - [Active Directory Avenues to Compromise](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/avenues-to-compromise): MSDOCs for AD Avenues of Compromise
+- [DLL Hijacking Clarified](https://itm4n.github.io/windows-dll-hijacking-clarified/): Some info on DLL Hijacking and what it is.
 
 [back to top](#contents)
 
@@ -53,7 +54,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Web Based Pomodoro Tracker](https://github.com/huytd/pomoday-v2): Nifty Web based Pomorodo tracker
 - [Learning x86-64 assembly: Part 0](https://gpfault.net/posts/asm-tut-0.txt.html): Dive into x86-64 assembly and level up your low level language skills
 - [Is BGP Safe yet?](https://isbgpsafeyet.com/): Is BGP Safe yet?
-
+- [Custom Streaming Setup](https://secluded.site/custom-streaming-setup/): Using NGINX to broadcast a custom stream
 
 [back to top](#contents)
 
