@@ -55,6 +55,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Learning x86-64 assembly: Part 0](https://gpfault.net/posts/asm-tut-0.txt.html): Dive into x86-64 assembly and level up your low level language skills
 - [Is BGP Safe yet?](https://isbgpsafeyet.com/): Is BGP Safe yet?
 - [Custom Streaming Setup](https://secluded.site/custom-streaming-setup/): Using NGINX to broadcast a custom stream
+- [Web based diagram app](https://app.diagrams.net/): Handy web based diagram creation
 
 [back to top](#contents)
 
