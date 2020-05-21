@@ -56,6 +56,8 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Is BGP Safe yet?](https://isbgpsafeyet.com/): Is BGP Safe yet?
 - [Custom Streaming Setup](https://secluded.site/custom-streaming-setup/): Using NGINX to broadcast a custom stream
 - [Web based diagram app](https://app.diagrams.net/): Handy web based diagram creation
+- [Self-hosting on a Raspi using Argo Tunnels and Cloudflare](https://medium.com/@durksauce/self-hosting-with-raspberry-pi-and-argo-tunnels-11f06d1309a9): Neat project idea if you have a RasPi 2/3/4 laying around collecting dust
+- [Ray Tracing in Notepad](http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html): Mother of god.....
 
 [back to top](#contents)
 
@@ -78,5 +80,6 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 
 - [Apparatus Assembly](https://github.com/kgolid/apparatus-assembly): Animation of the Apparatus Generator. Watch the [DEMO](https://assembly.generated.space/) for hours
 - [Chess.com Move analysis](https://chesscoach.network/): Put in your chess.com username and this app will show you what mistakes you commonly make
+- [Orb Farm: Fish tank/eco system simulator](https://orb.farm/): A fun toy to play around with and watch what happens
 
 [back to top](#contents)
