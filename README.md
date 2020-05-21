@@ -31,7 +31,8 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [What Consititutes a Vulnerablity](https://boats.gitlab.io/blog/post/vulnerabilities/): Opinion on what and what isn't a vulnerability and CVE
 - [Safari Webcam Hacking](https://www.ryanpickren.com/webcam-hacking): Interesting writeup and Proof-of-Concept on how to gain unauthorizaed access to the webcam in iOS and macOS
 - [Active Directory Avenues to Compromise](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/avenues-to-compromise): MSDOCs for AD Avenues of Compromise
-- [DLL Hijacking Clarified](https://itm4n.github.io/windows-dll-hijacking-clarified/): Some info on DLL Hijacking and what it is.
+- [DLL Hijacking Clarified](https://itm4n.github.io/windows-dll-hijacking-clarified/): Some info on DLL Hijacking and what it is
+- [Read and write other process memory](https://nullprogram.com/blog/2016/09/03/): Nice writeup on how the memory of another process can be read and written to
 
 [back to top](#contents)
 
