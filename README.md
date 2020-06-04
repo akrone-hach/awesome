@@ -33,7 +33,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Active Directory Avenues to Compromise](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/avenues-to-compromise): MSDOCs for AD Avenues of Compromise
 - [DLL Hijacking Clarified](https://itm4n.github.io/windows-dll-hijacking-clarified/): Some info on DLL Hijacking and what it is
 - [Read and write other process memory](https://nullprogram.com/blog/2016/09/03/): Nice writeup on how the memory of another process can be read and written to
-- [Anonymizing your online footprint](https://pastebin.com/TPgtvmVB): Tips for increasing the anoninimity of your online footprint-am 
+- [Anonymizing your online footprint](https://pastebin.com/TPgtvmVB): Tips for increasing the anoninimity of your online footprint
 
 [back to top](#contents)
 
