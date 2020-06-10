@@ -90,3 +90,4 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 ## Miscellaneous
 
 - [How Diseases Spread](https://bio.libretexts.org/Bookshelves/Microbiology/Book%3A_Microbiology_(OpenStax)/16%3A_Disease_and_Epidemiology/16.3%3A_How_Diseases_Spread): LibreText of how diseases spread
+- [Searchlores](http://biostatisticien.eu/www.searchlores.org/words.htm): What did I just find?
