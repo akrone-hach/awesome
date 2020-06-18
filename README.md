@@ -41,6 +41,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 ## Personal Development
 
 - [Questions to help overcome Shyness](https://www.inc.com/alison-davis/33-questions-to-help-you-overcome-shyness-so-you-can-be-awesome-at-networking-speed-dating-mingling-or-schmoozing.html): Questions every introvert should keep in their backpocket for being social at conferences and networking
+- [The 5 Hindrances](https://en.wikipedia.org/wiki/Five_hindrances): From Buddism, The 5 Hinrances that hinder progress of meditation in our daily lives
 
 [back to top](#contents)
 
