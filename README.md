@@ -62,6 +62,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Web based diagram app](https://app.diagrams.net/): Handy web based diagram creation
 - [Self-hosting on a Raspi using Argo Tunnels and Cloudflare](https://medium.com/@durksauce/self-hosting-with-raspberry-pi-and-argo-tunnels-11f06d1309a9): Neat project idea if you have a RasPi 2/3/4 laying around collecting dust
 - [Ray Tracing in Notepad](http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html): Mother of god.....
+- [Learning operating system development using Linux kernel and Raspberry Pi](https://s-matyukevich.github.io/raspberry-pi-os/): Work in progress of guided lessons on OS development using the Linux Kernel and a Raspberry Pi 3
 
 [back to top](#contents)
 
