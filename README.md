@@ -35,6 +35,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [DLL Hijacking Clarified](https://itm4n.github.io/windows-dll-hijacking-clarified/): Some info on DLL Hijacking and what it is
 - [Read and write other process memory](https://nullprogram.com/blog/2016/09/03/): Nice writeup on how the memory of another process can be read and written to
 - [Anonymizing your online footprint](https://pastebin.com/TPgtvmVB): Tips for increasing the anoninimity of your online footprint
+- [ELF Virus Writing How-To](http://virus.enemy.org/virus-writing-HOWTO/_html/): How to write ELF viruses
 
 [back to top](#contents)
 
@@ -48,7 +49,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 ## Dotnet Core
 
 - [Logging in a Console App](https://www.blinkingcaret.com/2018/02/14/net-core-console-logging/): Walkthrough setting up logging in a .NET Core console app
-- [MAUI: .NET multiple platform App UI ](https://github.com/dotnet/maui): Github repo for MAUI
+- [MAUI: .NET multiple platform App UI](https://github.com/dotnet/maui): Github repo for MAUI
 
 [back to top](#contents)
 
