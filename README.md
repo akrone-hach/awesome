@@ -36,6 +36,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Read and write other process memory](https://nullprogram.com/blog/2016/09/03/): Nice writeup on how the memory of another process can be read and written to
 - [Anonymizing your online footprint](https://pastebin.com/TPgtvmVB): Tips for increasing the anoninimity of your online footprint
 - [ELF Virus Writing How-To](http://virus.enemy.org/virus-writing-HOWTO/_html/): How to write ELF viruses
+- [Hardening Debian](https://niklasanderson.com/basic-debian-hardening): An article with some practical steps in hardening a Debian system
 
 [back to top](#contents)
 
@@ -65,6 +66,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Self-hosting on a Raspi using Argo Tunnels and Cloudflare](https://medium.com/@durksauce/self-hosting-with-raspberry-pi-and-argo-tunnels-11f06d1309a9): Neat project idea if you have a RasPi 2/3/4 laying around collecting dust
 - [Ray Tracing in Notepad](http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html): Mother of god.....
 - [Learning operating system development using Linux kernel and Raspberry Pi](https://s-matyukevich.github.io/raspberry-pi-os/): Work in progress of guided lessons on OS development using the Linux Kernel and a Raspberry Pi 3
+- [Introduction to Hardware Hacking on FreeBSD with Raspberry Pi](https://www.youtube.com/watch?v=OZKImUtlGl0): Introduction to hardware hacking with FreeBSD and RaspberryPi
 
 [back to top](#contents)
 
