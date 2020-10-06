@@ -13,6 +13,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
   - [Software Development](#software-development)
   - [Hardware and Electronics](#hardware-and-electronics)
   - [Brain Candy](#brain-candy)
+  - [Programming](#programming)
   - [Miscellaneous](#miscellaneous)
 
 ## Security
@@ -93,7 +94,17 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 
 [back to top](#contents)
 
+## Programming
+
+- [Rust Starter Kit 2020](https://wiki.alopex.li/RustStarterKit2020): Good reference for Rust
+- [Learning a new programming language](https://blog.frankel.ch/on-learning-new-programming-language/): Tips on learning a new programming language
+- [awesome Rust](https://github.com/rust-unofficial/awesome-rust): Another awesome list for Rust
+
+[back to top](#contents)
+
 ## Miscellaneous
 
 - [How Diseases Spread](https://bio.libretexts.org/Bookshelves/Microbiology/Book%3A_Microbiology_(OpenStax)/16%3A_Disease_and_Epidemiology/16.3%3A_How_Diseases_Spread): LibreText of how diseases spread
 - [Searchlores](http://biostatisticien.eu/www.searchlores.org/words.htm): What did I just find?
+
+[back to top](#contents)
