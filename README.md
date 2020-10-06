@@ -106,5 +106,6 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 
 - [How Diseases Spread](https://bio.libretexts.org/Bookshelves/Microbiology/Book%3A_Microbiology_(OpenStax)/16%3A_Disease_and_Epidemiology/16.3%3A_How_Diseases_Spread): LibreText of how diseases spread
 - [Searchlores](http://biostatisticien.eu/www.searchlores.org/words.htm): What did I just find?
+- [Shreading Exercises](https://www.guitarworld.com/lessons/three-steps-shred-fundamental-daily-practice-techniques-about-15-minutes): 3 exercises to develop fundamental shreading techniques
 
 [back to top](#contents)
