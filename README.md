@@ -77,6 +77,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions): Style guide for C#
 - [XOR filter](https://lemire.me/blog/2019/12/19/xor-filters-faster-and-smaller-than-bloom-filters/): High level overview of the XOR filter
 - [Network Programming reading list](https://siliconsprawl.com/2020/05/10/network-programming-self-study.html): A good list of texts to read to grow your understanding of networks and systems
+- [Shape Up](https://basecamp.com/shapeup): Ship code and features that matter and stop wasting time on meaningless work
 
 [back to top](#contents)
 
@@ -99,6 +100,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Rust Starter Kit 2020](https://wiki.alopex.li/RustStarterKit2020): Good reference for Rust
 - [Learning a new programming language](https://blog.frankel.ch/on-learning-new-programming-language/): Tips on learning a new programming language
 - [awesome Rust](https://github.com/rust-unofficial/awesome-rust): Another awesome list for Rust
+- [Game Programming patterns](https://gameprogrammingpatterns.com/): Approachable book for learning game programming patterns
 
 [back to top](#contents)
 
