@@ -108,6 +108,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Learning a new programming language](https://blog.frankel.ch/on-learning-new-programming-language/): Tips on learning a new programming language
 - [awesome Rust](https://github.com/rust-unofficial/awesome-rust): Another awesome list for Rust
 - [Game Programming patterns](https://gameprogrammingpatterns.com/): Approachable book for learning game programming patterns
+- [Piet - An esoteric language](https://www.dangermouse.net/esoteric/piet.html): graphical based programming language
 
 [back to top](#contents)
 
