@@ -109,6 +109,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [awesome Rust](https://github.com/rust-unofficial/awesome-rust): Another awesome list for Rust
 - [Game Programming patterns](https://gameprogrammingpatterns.com/): Approachable book for learning game programming patterns
 - [Piet - An esoteric language](https://www.dangermouse.net/esoteric/piet.html): graphical based programming language
+- [DarkLang: Your first app](https://docs.darklang.com/your-first): A walk through on how to use the DarkLang editor
 
 [back to top](#contents)
 
