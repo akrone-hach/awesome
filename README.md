@@ -16,6 +16,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
   - [Brain Candy](#brain-candy)
   - [Programming](#programming)
   - [Miscellaneous](#miscellaneous)
+  - [Machines and Mechanics](#machines-and-mechanics)
 
 ## Security
 
@@ -39,6 +40,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Anonymizing your online footprint](https://pastebin.com/TPgtvmVB): Tips for increasing the anoninimity of your online footprint
 - [ELF Virus Writing How-To](http://virus.enemy.org/virus-writing-HOWTO/_html/): How to write ELF viruses
 - [Hardening Debian](https://niklasanderson.com/basic-debian-hardening): An article with some practical steps in hardening a Debian system
+- [Hunting malicious Python packages](https://jordan-wright.com/blog/post/2020-11-12-hunting-for-malicious-packages-on-pypi/): Hunting Malicious packages using sysdig and docker
 
 [back to top](#contents)
 
@@ -110,6 +112,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Game Programming patterns](https://gameprogrammingpatterns.com/): Approachable book for learning game programming patterns
 - [Piet - An esoteric language](https://www.dangermouse.net/esoteric/piet.html): graphical based programming language
 - [DarkLang: Your first app](https://docs.darklang.com/your-first): A walk through on how to use the DarkLang editor
+- [TheFuck: App that fixes your CLI mistakes](https://github.com/nvbn/thefuck): A wonderful app that fixes the errors in a previous CLI command
 
 [back to top](#contents)
 
@@ -118,5 +121,12 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [How Diseases Spread](https://bio.libretexts.org/Bookshelves/Microbiology/Book%3A_Microbiology_(OpenStax)/16%3A_Disease_and_Epidemiology/16.3%3A_How_Diseases_Spread): LibreText of how diseases spread
 - [Searchlores](http://biostatisticien.eu/www.searchlores.org/words.htm): What did I just find?
 - [Shreading Exercises](https://www.guitarworld.com/lessons/three-steps-shred-fundamental-daily-practice-techniques-about-15-minutes): 3 exercises to develop fundamental shreading techniques
+
+[back to top](#contents)
+
+## Machines and Mechanics
+
+- [Gear Generator](https://geargenerator.com/): Fun toy to design gears and play with gear ratios
+- [Make: Make your own gears](https://makezine.com/2010/06/28/make-your-own-gears/): Make Magazine article on designing your own gears
 
 [back to top](#contents)
