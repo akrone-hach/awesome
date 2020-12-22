@@ -42,6 +42,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Hardening Debian](https://niklasanderson.com/basic-debian-hardening): An article with some practical steps in hardening a Debian system
 - [Hunting malicious Python packages](https://jordan-wright.com/blog/post/2020-11-12-hunting-for-malicious-packages-on-pypi/): Hunting Malicious packages using sysdig and docker
 - [Exploiting OAUTH2.0](https://xploitprotocol.medium.com/exploiting-oauth-2-0-authorization-code-grants-379798888893): Really great info on OAUTH2.0 and exploiting Auth Code Grants
+- [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/): PCAPs from malware traffic and exercises and tutorials to keep learning
 
 [back to top](#contents)
 
