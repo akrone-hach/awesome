@@ -44,6 +44,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Hunting malicious Python packages](https://jordan-wright.com/blog/post/2020-11-12-hunting-for-malicious-packages-on-pypi/): Hunting Malicious packages using sysdig and docker
 - [Exploiting OAUTH2.0](https://xploitprotocol.medium.com/exploiting-oauth-2-0-authorization-code-grants-379798888893): Really great info on OAUTH2.0 and exploiting Auth Code Grants
 - [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/): PCAPs from malware traffic and exercises and tutorials to keep learning
+- [How the Best Hackers learn their craft (Youtube)]:(https://www.youtube.com/watch?v=6vj96QetfTg): RSA talk from a professor from Carnegie Melon
 
 [back to top](#contents)
 
@@ -131,6 +132,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Searchlores](http://biostatisticien.eu/www.searchlores.org/words.htm): What did I just find?
 - [Shreading Exercises](https://www.guitarworld.com/lessons/three-steps-shred-fundamental-daily-practice-techniques-about-15-minutes): 3 exercises to develop fundamental shreading techniques
 - [Lang Belta: Belter Creole Phrase Book](https://app.memrise.com/course/1476694/lang-belta-belter-creole-phrasebook/): I'm a fan of The Expanse and wanted to learn some Lang Belta, sasa ke?
+- [Treaties in Force: United States](https://www.state.gov/treaties-in-force/): Interesting document that lists the treaties the US has in force with other nations.
 
 [back to top](#contents)
 
