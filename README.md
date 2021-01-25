@@ -87,6 +87,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Ray Tracing in Notepad](http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html): Mother of god.....
 - [Learning operating system development using Linux kernel and Raspberry Pi](https://s-matyukevich.github.io/raspberry-pi-os/): Work in progress of guided lessons on OS development using the Linux Kernel and a Raspberry Pi 3
 - [Introduction to Hardware Hacking on FreeBSD with Raspberry Pi](https://www.youtube.com/watch?v=OZKImUtlGl0): Introduction to hardware hacking with FreeBSD and RaspberryPi
+- [Computational Neuroscience](https://mrgreene09.github.io/computational-neuroscience-textbook/): Free (as in speech AND beer) textbook on Computational Neuroscience
 
 [back to top](#contents)
 
