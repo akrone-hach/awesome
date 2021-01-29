@@ -57,6 +57,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 ## Blogs
 
 - [Sensecurity.io](https://sensecurity.io/): Written by the very excelent founder of CactusCon, Andrew Wilson
+- [NetSec Explained](https://netsecexplained.com/): Might not be an actual blog, but really good info here none the less
 
 [back to top](#contents)
 
