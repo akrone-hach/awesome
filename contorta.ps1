@@ -13,6 +13,8 @@ param (
 mkdir $project_name
 cd $project_name
 
+ni .\README.md
+
 mkdir 'post - deliverables'
 mkdir 'pre - scope'
 mkdir 'workbench'
@@ -24,3 +26,5 @@ mkdir notes
 mkdir scanner_results
 mkdir screenshots
 mkdir state
+
+cd ..
