@@ -90,6 +90,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Introduction to Hardware Hacking on FreeBSD with Raspberry Pi](https://www.youtube.com/watch?v=OZKImUtlGl0): Introduction to hardware hacking with FreeBSD and RaspberryPi
 - [Computational Neuroscience](https://mrgreene09.github.io/computational-neuroscience-textbook/): Free (as in speech AND beer) textbook on Computational Neuroscience
 - [The Ultimate Guide to Terminal User Interfaces in PowerShell](https://blog.ironmansoftware.com/tui-powershell/): A guide to using Terminal.GUI in Powershell
+- [Raspi K8s Cluster](https://ubuntu.com/tutorials/how-to-kubernetes-cluster-on-raspberry-pi): I've been wanting to build one of these for a while
 
 [back to top](#contents)
 
