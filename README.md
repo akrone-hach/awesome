@@ -91,6 +91,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Computational Neuroscience](https://mrgreene09.github.io/computational-neuroscience-textbook/): Free (as in speech AND beer) textbook on Computational Neuroscience
 - [The Ultimate Guide to Terminal User Interfaces in PowerShell](https://blog.ironmansoftware.com/tui-powershell/): A guide to using Terminal.GUI in Powershell
 - [Raspi K8s Cluster](https://ubuntu.com/tutorials/how-to-kubernetes-cluster-on-raspberry-pi): I've been wanting to build one of these for a while
+- [Terminal commands over SMS](https://github.com/mtdevss/server-text): Interesting way to send commands to a server, also has a list of SMS gateways
 
 [back to top](#contents)
 
