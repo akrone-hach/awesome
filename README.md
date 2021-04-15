@@ -108,6 +108,8 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 ## Hardware and Electronics
 
 - [Bores Intro to DSP](http://www.bores.com/courses/intro/basics/index.htm): Introductory material for DSPs and Signal Processing
+- [MODBUS Application Protocol(PDF)](https://modbus.org/docs/Modbus_Application_Protocol_V1_1b3.pdf): PDF Spec of the MODBUS application protocol
+- [MODBUS tutorial](https://www.csimn.com/CSI_pages/Modbus101.html): Good introductory info for learning MODBUS
 
 [back to top](#contents)
 
