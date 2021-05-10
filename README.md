@@ -118,6 +118,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Apparatus Assembly](https://github.com/kgolid/apparatus-assembly): Animation of the Apparatus Generator. Watch the [DEMO](https://assembly.generated.space/) for hours
 - [Chess.com Move analysis](https://chesscoach.network/): Put in your chess.com username and this app will show you what mistakes you commonly make
 - [Orb Farm: Fish tank/eco system simulator](https://orb.farm/): A fun toy to play around with and watch what happens
+- [Game of Life in Typescript](https://huth.me/conway4/): Typescript implementation of Conway's Game of Life
 
 [back to top](#contents)
 
