@@ -44,7 +44,8 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Hunting malicious Python packages](https://jordan-wright.com/blog/post/2020-11-12-hunting-for-malicious-packages-on-pypi/): Hunting Malicious packages using sysdig and docker
 - [Exploiting OAUTH2.0](https://xploitprotocol.medium.com/exploiting-oauth-2-0-authorization-code-grants-379798888893): Really great info on OAUTH2.0 and exploiting Auth Code Grants
 - [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/): PCAPs from malware traffic and exercises and tutorials to keep learning
-- [How the Best Hackers learn their craft (Youtube)]:(https://www.youtube.com/watch?v=6vj96QetfTg): RSA talk from a professor from Carnegie Melon
+- [How the Best Hackers learn their craft (Youtube)](https://www.youtube.com/watch?v=6vj96QetfTg): RSA talk from a professor from Carnegie Melon
+- [Applied INtroduction to Cryptography](https://sites.google.com/site/amirherzberg/applied-crypto-textbook): Applied intro to crypto
 
 [back to top](#contents)
 
@@ -110,6 +111,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Bores Intro to DSP](http://www.bores.com/courses/intro/basics/index.htm): Introductory material for DSPs and Signal Processing
 - [MODBUS Application Protocol(PDF)](https://modbus.org/docs/Modbus_Application_Protocol_V1_1b3.pdf): PDF Spec of the MODBUS application protocol
 - [MODBUS tutorial](https://www.csimn.com/CSI_pages/Modbus101.html): Good introductory info for learning MODBUS
+- [How a USB Keyboard works:YouTube](https://www.youtube.com/watch?v=wdgULBpRoXk): Video on how a USB keyboard works
 
 [back to top](#contents)
 
