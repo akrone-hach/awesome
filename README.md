@@ -144,6 +144,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Lang Belta: Belter Creole Phrase Book](https://app.memrise.com/course/1476694/lang-belta-belter-creole-phrasebook/): I'm a fan of The Expanse and wanted to learn some Lang Belta, sasa ke?
 - [Treaties in Force: United States](https://www.state.gov/treaties-in-force/): Interesting document that lists the treaties the US has in force with other nations.
 - [Bullet Journaling](https://bulletjournal.com/): A method and practice for planning. Here's a [blog post](https://ksylor.github.io/2020/08/26/bullet-journaling.html) on how a software engineer uses it.
+- [OpenCorporates Data](https://opencorporates.com/): Open and available data set of Corporate information
 
 [back to top](#contents)
 
