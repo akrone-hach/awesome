@@ -46,6 +46,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/): PCAPs from malware traffic and exercises and tutorials to keep learning
 - [How the Best Hackers learn their craft (Youtube)](https://www.youtube.com/watch?v=6vj96QetfTg): RSA talk from a professor from Carnegie Melon
 - [Applied INtroduction to Cryptography](https://sites.google.com/site/amirherzberg/applied-crypto-textbook): Applied intro to crypto
+- [Practical Cryptography for Developers](https://cryptobook.nakov.com/): Work in progress, but a great reference for developers
 
 [back to top](#contents)
 
