@@ -8,7 +8,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
   - [Contents](#contents)
   - [Security](#security)
   - [Tools](#tools)
-  - [Blogs](#blogs)
+  - [Blogs & Podcasts](#blogs--podcasts)
   - [Personal Development](#personal-development)
   - [Dotnet Core](#dotnet-core)
   - [General Computer](#general-computer)
@@ -56,10 +56,11 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 
 [back to top](#contents)
 
-## Blogs
+## Blogs & Podcasts
 
 - [Sensecurity.io](https://sensecurity.io/): Written by the very excelent founder of CactusCon, Andrew Wilson
 - [NetSec Explained](https://netsecexplained.com/): Might not be an actual blog, but really good info here none the less
+- [Signals and Threads](https://signalsandthreads.com/): Podcast talking about all things in the tech stack of stuffs
 
 [back to top](#contents)
 
