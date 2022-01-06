@@ -1,10 +1,10 @@
-# awesome - Hi Cora
+# awesome - 🦆🦆🦆🦆
 
 List of Awesome Things. I've found them and want to keep track of them. I get to practice some [Ontology](https://en.wikipedia.org/wiki/Ontology_(information_science)) in the mean time. I reference a good amount of links I find on [Lobste.rs](https://lobste.rs)
 
 ## Contents
 
-- [awesome - Hi Cora](#awesome---hi-cora)
+- [awesome - 🦆🦆🦆🦆](#awesome---)
   - [Contents](#contents)
   - [Security](#security)
   - [Tools](#tools)
