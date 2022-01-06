@@ -1,10 +1,10 @@
-# awesome
+# awesome - Hi Cora
 
 List of Awesome Things. I've found them and want to keep track of them. I get to practice some [Ontology](https://en.wikipedia.org/wiki/Ontology_(information_science)) in the mean time. I reference a good amount of links I find on [Lobste.rs](https://lobste.rs)
 
 ## Contents
 
-- [awesome](#awesome)
+- [awesome - Hi Cora](#awesome---hi-cora)
   - [Contents](#contents)
   - [Security](#security)
   - [Tools](#tools)
@@ -45,8 +45,9 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Exploiting OAUTH2.0](https://xploitprotocol.medium.com/exploiting-oauth-2-0-authorization-code-grants-379798888893): Really great info on OAUTH2.0 and exploiting Auth Code Grants
 - [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/): PCAPs from malware traffic and exercises and tutorials to keep learning
 - [How the Best Hackers learn their craft (Youtube)](https://www.youtube.com/watch?v=6vj96QetfTg): RSA talk from a professor from Carnegie Melon
-- [Applied INtroduction to Cryptography](https://sites.google.com/site/amirherzberg/applied-crypto-textbook): Applied intro to crypto
+- [Applied Introduction to Cryptography](https://sites.google.com/site/amirherzberg/applied-crypto-textbook): Applied intro to crypto
 - [Practical Cryptography for Developers](https://cryptobook.nakov.com/): Work in progress, but a great reference for developers
+- [Mac Malware books](https://taomm.org/): Books on mac malware
 
 [back to top](#contents)
 
