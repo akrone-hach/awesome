@@ -96,6 +96,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [The Ultimate Guide to Terminal User Interfaces in PowerShell](https://blog.ironmansoftware.com/tui-powershell/): A guide to using Terminal.GUI in Powershell
 - [Raspi K8s Cluster](https://ubuntu.com/tutorials/how-to-kubernetes-cluster-on-raspberry-pi): I've been wanting to build one of these for a while
 - [Terminal commands over SMS](https://github.com/mtdevss/server-text): Interesting way to send commands to a server, also has a list of SMS gateways
+- [Digital Audio Synth in Rust](https://0xc45.com/blog/digital-audio-synthesizer-in-rust/): Walk through of someone creating a digital audio synth using Rust
 
 [back to top](#contents)
 
