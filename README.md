@@ -48,6 +48,7 @@ List of Awesome Things. I've found them and want to keep track of them. I get to
 - [Applied Introduction to Cryptography](https://sites.google.com/site/amirherzberg/applied-crypto-textbook): Applied intro to crypto
 - [Practical Cryptography for Developers](https://cryptobook.nakov.com/): Work in progress, but a great reference for developers
 - [Mac Malware books](https://taomm.org/): Books on mac malware
+- [VoLTR/VoWiFi on a $0 budget](https://worthdoingbadly.com/vowifi2/): Fun little bit of research
 
 [back to top](#contents)
 
